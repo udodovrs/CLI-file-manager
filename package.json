@@ -1,0 +1,12 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "File-manager",
+  "main": "fm.js",
+  "scripts": {
+    "start": "node file-manager.js"
+  },
+  "author": "udodovrs@gmail.com",
+  "license": "ISC"
+}
